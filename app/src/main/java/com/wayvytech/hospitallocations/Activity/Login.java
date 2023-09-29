@@ -69,7 +69,7 @@ public class Login extends AppCompatActivity {
                         preferencesEditor.apply();
                         hideLoading();
                         Toast.makeText(Login.this, "User logged in successfully", Toast.LENGTH_SHORT).show();
-                        startActivity(new Intent(Login.this, MainActivity.class));
+                        startActivity(new Intent(Login.this, MapsActivity.class));
                         finish();
                     }else{
                         hideLoading();
