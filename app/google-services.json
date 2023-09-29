@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "653596376280",
+    "firebase_url": "https://hire-f5aee.firebaseio.com",
+    "project_id": "hire-f5aee",
+    "storage_bucket": "hire-f5aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653596376280:android:0b7ae962d8916412",
+        "android_client_info": {
+          "package_name": "com.example.way4ward.hire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653596376280-ac3sv4qc9gm0oafip37fj6h5g8bb82gs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.way4ward.hire",
+            "certificate_hash": "f39cbdda3a06b0753b53be0330da06f9aa13d2b8"
+          }
+        },
+        {
+          "client_id": "653596376280-ispfruuv6g4kksc6rjqu01ihbj3slbo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcg6DxOFk3evu_PY3XP8GpyMQSLu9UPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653596376280-ispfruuv6g4kksc6rjqu01ihbj3slbo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653596376280:android:e8a273b261f401d535abad",
+        "android_client_info": {
+          "package_name": "com.wayvytech.hospitallocations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653596376280-ispfruuv6g4kksc6rjqu01ihbj3slbo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZcg6DxOFk3evu_PY3XP8GpyMQSLu9UPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653596376280-ispfruuv6g4kksc6rjqu01ihbj3slbo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
